@@ -1,4 +1,5 @@
 # tribute-page
-In Honour to Richard Feynman.
-This Tribute-Page is my solution to the 1st challenge of freecodecamp course Responsive Webdesign.
+In Honour to Richard Feynman. A brilliant teacher, physicist and Nobel laureate.
+
+freeCodeCamp Responsive Web Design Projects 1/5
    
